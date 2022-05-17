@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bc21_giohangredux_leviettoan/static/css/main.fb4b8d6d.css",
+    "main.js": "/bc21_giohangredux_leviettoan/static/js/main.85418aba.js",
+    "static/js/787.8d4da325.chunk.js": "/bc21_giohangredux_leviettoan/static/js/787.8d4da325.chunk.js",
+    "static/media/iphone-xs-max.jpg": "/bc21_giohangredux_leviettoan/static/media/iphone-xs-max.acca64b53a44bad85528.jpg",
+    "static/media/meizu-16Xs.jpg": "/bc21_giohangredux_leviettoan/static/media/meizu-16Xs.6ae702039daaebf438ad.jpg",
+    "static/media/vsmart-live.jpg": "/bc21_giohangredux_leviettoan/static/media/vsmart-live.3dafe872b172ca188cbb.jpg",
+    "static/media/logo.svg": "/bc21_giohangredux_leviettoan/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/bc21_giohangredux_leviettoan/index.html",
+    "main.fb4b8d6d.css.map": "/bc21_giohangredux_leviettoan/static/css/main.fb4b8d6d.css.map",
+    "main.85418aba.js.map": "/bc21_giohangredux_leviettoan/static/js/main.85418aba.js.map",
+    "787.8d4da325.chunk.js.map": "/bc21_giohangredux_leviettoan/static/js/787.8d4da325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4b8d6d.css",
+    "static/js/main.85418aba.js"
+  ]
+}
